@@ -11,8 +11,8 @@
 
 ### My stats 📊
 
-![](https://github.com/gabrielhvs/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/gabrielhvs/github-stats/blob/master/generated/languages.svg)
+[![](https://github.com/gabrielhvs/github-stats/blob/master/generated/overview.svg)]
+[![](https://github.com/gabrielhvs/github-stats/blob/master/generated/languages.svg)]
 
     
 ### languages and libraries 📝
