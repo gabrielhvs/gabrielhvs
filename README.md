@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning **Python for data analytics and Sensor data acquisition** 
 - 💬 Ask me about **Arduino**, **ESP32**, **SensorTag**, **MATLAB & Simulink** and **ROS** ! 
 
-[![my email](https://img.shields.io/static/v1?style=flat&logo=gmail&labelColor=fafafa&label=Email&message=gabriel.vasconcelos@ee.ufcg.edu.br&color=red)](mailto:gabriel.vasconcelos@ee.ufcg.edu.br)
+[![my email](https://img.shields.io/static/v1?style=flat&logo=gmail&labelColor=fafafa&label=Email&message=gabbrielvasc@gmail.com&color=red)](mailto:gabriel.vasconcelos@ee.ufcg.edu.br)
 [![my linkedin](https://img.shields.io/static/v1?style=flat&logo=linkedin&logoColor=0072b1&labelColor=fafafa&label=LinkedIn&message=Gabriel%20Henrique&color=0072b1)](https://www.linkedin.com/in/gabriel-henrique-vasconcelos-silva-021716148/) 
 [![my linkedin](https://img.shields.io/static/v1?style=flat&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAQAAAC1QeVaAAAABGdBTUEAALGPC%2FxhBQAAACBjSFJNAAB6JQAAgIMAAPn%2FAACA6QAAdTAAAOpgAAA6mAAAF2%2BSX8VGAAAAB3RJTUUH5QgVDgAvfKXcrgAAAAJiS0dEAP%2BHj8y%2FAAAAzklEQVQYGQXBPysEAAAH0JfulJgUShIpg6Kw%2BDPJqBiEjyGLsimnbNSV5ZYrm4xWpSwWyqB0kVgud5kUOXU%2F7wF0mbdlzaRuAIBBVQ2%2F3lw6NKcDgIITETeWzBo1AABDnkXbnooXZyYs6gSY8inaSmoiKg5sAkxoiCjb0dRSduRaD9Dn1o%2B402%2FGimUP6saAon3nLlxZt2DXo3g1DLDtW1Pdhy8RUVUEGPcuIiKiZhqAgqqIiLi3BACsaok%2FT0pGAAB6nTq2YRgAACgAAPAPMTNKav99rfIAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjEtMDgtMjFUMTQ6MDA6NDctMDQ6MDAtIdE%2FAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIxLTA4LTIxVDE0OjAwOjQ3LTA0OjAwXHxpgwAAAABJRU5ErkJggg%3D%3D&logoColor=0072b1&labelColor=fafafa&label=Lattes&message=Gabriel%20Henrique&color=black)](http://lattes.cnpq.br/7968110191662759) 
 
